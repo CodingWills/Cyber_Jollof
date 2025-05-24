@@ -4,8 +4,6 @@ Cybersecurity Awareness Education Material for Non-Technical Users in Nigeria: C
 
 Cyber Jollof is a culturally relevant cybersecurity education web application designed specifically for Nigerian users. The app features a Nigerian superhero mascot and delivers cybersecurity education through gamification, using simple English and Nigerian Pidgin.
 
-![Cyber Jollof Logo](./public/images/logo.png)
-
 ## Features
 
 - **Culturally Relevant Education**: Content designed specifically for Nigerian users with references to familiar scenarios and local examples.
