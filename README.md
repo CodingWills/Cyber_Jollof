@@ -15,10 +15,3 @@ Cyber Jollof is a culturally relevant cybersecurity education web application de
 - **Progressive Web App**: Install on mobile devices for an app-like experience with offline capabilities.
 - **User-Friendly Interface**: Designed specifically for non-technical users.
 
-## Installation
-
-### Prerequisites
-
-- Node.js v14.0.0 or later
-- npm v6.0.0 or later
-
